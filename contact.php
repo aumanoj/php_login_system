@@ -2,11 +2,7 @@
 	include ('include/header.php');
 	include ('include/navbar.php');
 ?>
-
-
-
-
-          <br><h1><center>Contact Us</center></h1>
+<br><h1><center>Contact Us</center></h1>
 
 <!-- /.page header -->
 
@@ -64,7 +60,6 @@
                 <input id="textinput" name="textinput" type="text" placeholder="" class="form-control input-md">
                 </div>
               </div>
-
               <!-- Text input-->
               <div class="form-group">
                 <label class="col-md-10 control-label" for="textinput">Email <span class="required">*</span></label>
@@ -91,7 +86,6 @@
                   </select>
                 </div>
               </div>
-
               <!-- Textarea -->
               <div class="form-group">
                 <label class="col-md-10 control-label" for="textarea">Text Area</label>
@@ -104,7 +98,6 @@
                 <span class="required pull-right">* Field Are Required</span>
               </div>
             </form>
-
           </div>
         </div>
       </div>
@@ -113,7 +106,6 @@
 </div>
 <div class="map" id="googleMap"></div>
 <div class="footer section-space60">
-
 <?php
 include ('include/script.php');
 include ('include/footer.php');
