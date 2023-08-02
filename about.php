@@ -2,11 +2,7 @@
 	include ('include/header.php');
 	include ('include/navbar.php');
 ?>
-
-
-
-
-          <br><h1><center>About Us</center></h1>
+<br><h1><center>About Us</center></h1>
 
 <!-- /.page header -->
 
@@ -51,14 +47,11 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-8 col-sm-8">
         <div class="row">
           <div class="col-md-12 col-sm-12">
             <h1>Get In Touch</h1>
             <p></p>
-
-
           </div>
         </div>
       </div>
@@ -66,7 +59,6 @@
   </div>
 </div>
 <div class="footer section-space60">
-
 <?php
 include ('include/script.php');
 include ('include/footer.php');
